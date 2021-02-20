@@ -1,0 +1,9 @@
+{
+  "name": "Budget-Tracker",
+  "short_name": "Budget-Tracker",
+  "icons": [],
+  "theme_color": "#dddddd",
+  "background_color": "#dddddd",
+  "start_url": "/",
+  "display": "standalone"
+}
